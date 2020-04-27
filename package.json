@@ -1,0 +1,19 @@
+{
+  "name": "bolt-action-xml-parser",
+  "version": "1.0.0",
+  "description": "XML Parser for BattleScribe data files",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braston/Bolt-Action-XML-Parser.git"
+  },
+  "author": "Brandon Aston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braston/Bolt-Action-XML-Parser/issues"
+  },
+  "homepage": "https://github.com/braston/Bolt-Action-XML-Parser#readme"
+}
